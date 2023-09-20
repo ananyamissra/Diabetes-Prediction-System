@@ -17,21 +17,21 @@ Before running the Jupyter Notebook, ensure you have the following Python librar
 ### Usage
 Follow the step-by-step instructions in the Jupyter Notebook to:
 
--Load and explore the dataset.
--Preprocess the data (e.g., handle missing values, feature scaling).
--Split the data into training and testing sets.
--Train an SVM classifier on the training data.
--Evaluate the model's performance on the testing data.
--Make predictions using the trained model.
+- Load and explore the dataset.
+- Preprocess the data (e.g., handle missing values, feature scaling).
+- Split the data into training and testing sets.
+- Train an SVM classifier on the training data.
+- Evaluate the model's performance on the testing data.
+- Make predictions using the trained model.
 
 Feel free to customize the notebook and experiment with different hyperparameters or feature engineering techniques to improve the model's accuracy.
 
 ## Contributing
 Contributions to this project are welcome. You can contribute by:
 
--Opening issues for bug reports or feature requests.
--Forking the repository and making improvements via pull requests.
+- Opening issues for bug reports or feature requests.
+- Forking the repository and making improvements via pull requests.
 
 ## Acknowledgments
--The dataset used in this project is diabetes.csv from PIMA Diabetes dataset.
--Special thanks to the Scikit-learn and Jupyter Notebook communities for their valuable resources and documentation.
+- The dataset used in this project is diabetes.csv from PIMA Diabetes dataset.
+- Special thanks to the Scikit-learn and Jupyter Notebook communities for their valuable resources and documentation.
